@@ -48,7 +48,7 @@ p{ margin: 0 0 1em; color: var(--text-muted); }
 /* subtle grain / vignette background across whole page */
 body{
   background-image:
-    radial-gradient(ellipse 1200px 600px at 15% -10%, rgba(255,176,32,0.06), transparent 60%),
+    radial-gradient(ellipse 1200px 600px at 15% -10%, #c2bbaf0f, transparent 60%),
     radial-gradient(ellipse 900px 500px at 100% 10%, rgba(53,208,127,0.05), transparent 55%);
   background-attachment: fixed;
 }
